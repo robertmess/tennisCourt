@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tenniscourts.reservations.ReservationServiceTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2021-07-23T09:37:35" hostname="RORMESESCU02M" time="0.468">
+  <properties/>
+  <testcase name="bookReservation" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.442"/>
+  <testcase name="bookReservationEntityNotFoundException" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.002"/>
+  <testcase name="cancelReservation" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.007"/>
+  <testcase name="cancelReservationCanceledReservationIllegalArgumentException" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.001"/>
+  <testcase name="cancelReservationEntityNotFoundException" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.001"/>
+  <testcase name="cancelReservationPastReservationIllegalArgumentException" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.001"/>
+  <testcase name="findAllReservations" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.001"/>
+  <testcase name="findReservation" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.001"/>
+  <testcase name="findReservationEntityNotFoundException" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.0"/>
+  <testcase name="getRefundValue0PercentRefund" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.001"/>
+  <testcase name="getRefundValue25PercentRefund" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.0"/>
+  <testcase name="getRefundValue50PercentRefund" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.0"/>
+  <testcase name="getRefundValue75PercentRefund" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.001"/>
+  <testcase name="getRefundValueFullRefund" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.0"/>
+  <testcase name="rescheduleReservation" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.003"/>
+  <testcase name="rescheduleReservationIllegalArgumentException" classname="com.tenniscourts.reservations.ReservationServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
